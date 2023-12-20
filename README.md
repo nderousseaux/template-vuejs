@@ -1,6 +1,6 @@
-# {{cookiecutter.project_name}}
+# Exemple of a Vue.js app 
 
-{{cookiecutter.project_description}}
+Template of a Vue.js app.
 
 ## Development
 
